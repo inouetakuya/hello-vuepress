@@ -1,0 +1,11 @@
+{
+  "name": "hello-vuepress",
+  "version": "1.0.0",
+  "repository": "ssh://git@github.com/inouetakuya/hello-vuepress.git",
+  "author": "INOUE Takuya <inouetakuya5@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^0.8.3"
+  }
+}
